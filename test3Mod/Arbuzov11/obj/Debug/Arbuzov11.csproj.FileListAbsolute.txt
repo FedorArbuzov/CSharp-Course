@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\Arbuzov11\Arbuzov11\bin\Debug\Arbuzov11.exe.config
+C:\Users\student\Desktop\Arbuzov11\Arbuzov11\obj\Debug\Arbuzov11.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Arbuzov11\Arbuzov11\bin\Debug\Arbuzov11.exe
+C:\Users\student\Desktop\Arbuzov11\Arbuzov11\bin\Debug\Arbuzov11.pdb
+C:\Users\student\Desktop\Arbuzov11\Arbuzov11\obj\Debug\Arbuzov11.exe
+C:\Users\student\Desktop\Arbuzov11\Arbuzov11\obj\Debug\Arbuzov11.pdb
+C:\Users\student\Desktop\Arbuzov11\Arbuzov11\bin\Debug\LibraryForCylinder.dll
+C:\Users\student\Desktop\Arbuzov11\Arbuzov11\bin\Debug\LibraryForCylinder.pdb

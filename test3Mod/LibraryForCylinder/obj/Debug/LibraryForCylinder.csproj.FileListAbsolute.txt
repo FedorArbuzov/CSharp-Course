@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Arbuzov11\LibraryForCylinder\bin\Debug\LibraryForCylinder.dll
+C:\Users\student\Desktop\Arbuzov11\LibraryForCylinder\bin\Debug\LibraryForCylinder.pdb
+C:\Users\student\Desktop\Arbuzov11\LibraryForCylinder\obj\Debug\LibraryForCylinder.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Arbuzov11\LibraryForCylinder\obj\Debug\LibraryForCylinder.dll
+C:\Users\student\Desktop\Arbuzov11\LibraryForCylinder\obj\Debug\LibraryForCylinder.pdb

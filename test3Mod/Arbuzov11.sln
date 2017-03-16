@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arbuzov11", "Arbuzov11\Arbuzov11.csproj", "{A880099C-7864-4062-A175-EE1F4285DE52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryForCylinder", "LibraryForCylinder\LibraryForCylinder.csproj", "{8358B3D2-7C29-44A3-A673-FA18DD73BDD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A880099C-7864-4062-A175-EE1F4285DE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A880099C-7864-4062-A175-EE1F4285DE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A880099C-7864-4062-A175-EE1F4285DE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A880099C-7864-4062-A175-EE1F4285DE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8358B3D2-7C29-44A3-A673-FA18DD73BDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8358B3D2-7C29-44A3-A673-FA18DD73BDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8358B3D2-7C29-44A3-A673-FA18DD73BDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8358B3D2-7C29-44A3-A673-FA18DD73BDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
